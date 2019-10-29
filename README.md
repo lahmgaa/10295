@@ -21,7 +21,7 @@
        #footer{width: 1920px; height: 500px; position: absolute; left:0; top: 970px; background-color: #0e0e0e;z-index: 1;}
 
         
-        #title1{width: 200px; height: auto; position: absolute; top: calc(50% - 520px); left: calc(50% - 100px); z-index: 9;}
+        #title1{width: 200px; height: auto; position: absolute; top: calc(50% - 520px); left: calc(50% - 100px); z-index: 5;}
 
         #start{width: 300px; height: 100px; color: white; background-color: #0e0e0e; font-size: 2em; position: absolute; left: calc(50% - 550px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; font-family: 'Noto Sans KR', sans-serif; border-radius: 20px;}
         #start:hover {cursor: pointer; background-color: #2eb8ce; border-radius: 20px;}
